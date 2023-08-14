@@ -20,4 +20,4 @@ except:
     print("\033[0;31mBad usage\033[0m")
     print("Who to use? https://github.com/mohammadali-arjomand/fill#usage")
     exit()
-print("A" * count)
+print("F" * count)
