@@ -28,7 +28,7 @@ you have some symbols for set size of file
 
 Symbol   | Meaning
 ---------|----------
-__None__ | Byte
+*None* | Byte
 `B`      | Byte
 `K`      | Kilobyte
 `M`      | Megabyte
