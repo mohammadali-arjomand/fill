@@ -19,5 +19,21 @@ Run this command
 sudo rm /usr/bin/fill
 ```
 
+# Usage
+Create a `1M` file
+```bash
+fill 1M > myFile
+```
+you have some symbols for set size of file
+
+Symbol   | Meaning
+---------|----------
+__None__ | Byte
+`B`      | Byte
+`K`      | Kilobyte
+`M`      | Megabyte
+`G`      | Gigabyte
+`T`      | Terabyte
+
 # License
 MIT License, Copyright (c) 2023 MohammadAli Arjomand
